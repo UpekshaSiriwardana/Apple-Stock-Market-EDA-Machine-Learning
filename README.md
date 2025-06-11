@@ -13,33 +13,3 @@
 
 ➤Compare performance of multiple models using evaluation metrics.
 
-🔍 Workflow Summary
-
-1. Exploratory Data Analysis
-   
-•Overview of AAPL stock price movement.
-
-•Time-series visualization of Open, Close, High, Low, and Volume.
-
-•Trend analysis using moving averages and volatility.
-
-2. Feature Engineering
-
-•Creation of lag features.
-
-•Use of moving averages and rolling statistics.
-
-•Preparation of train/test datasets.
-
-3. Modeling
-
-•Linear Regression
-
-•Decision Tree Regressor
-
-•Random Forest Regressor
-
-•Gradient Boosting Regressor
-
-•XGBoost Regressor
-
