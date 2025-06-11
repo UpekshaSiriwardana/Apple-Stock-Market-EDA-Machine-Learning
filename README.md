@@ -1,4 +1,4 @@
-# Apple-Stock-Market-EDA-Machine-Learning
+# Stock Market Forecasting: Apple Inc. (AAPL) EDA & Machine Learning
 #### This repository contains an end-to-end data science project focused on Apple Inc. (AAPL) stock, covering both Exploratory Data Analysis (EDA) and Machine Learning-based price prediction.
 
 📌 Objectives
